@@ -41,4 +41,7 @@ for packet in packets:
 
 This script loops through each packet and writes the data to a chall.jpg file.  
 Since the script takes longer than 5 mins to exectute, there's probably a more efficient way to do this.  
-After some waiting, we get the flag.  
+After some waiting though, we get the flag.  
+
+![Inkedchall](https://user-images.githubusercontent.com/74050386/233904457-97cb21f7-2acd-4c40-a709-0e89586a2743.jpg)
+
