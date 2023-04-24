@@ -13,6 +13,9 @@ Putting all of these together in order, we get...
 Each is missing one character. Where is it hiding?  
 After some detailed forensic analysis *frantically scrolling*  
 The 's' for the first 4 bytes is located at 0140, 12 bytes in.  
+
+![Screenshot 2023-04-24 150643](https://user-images.githubusercontent.com/74050386/233908582-01ebdff1-a9e5-40ce-9804-01fce49a114d.png)
+
 Subsequently, the rest of the missing characters are at that position in each file, in order.  
 
 ``` s { 3 a s e 3 u ```
